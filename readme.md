@@ -1,3 +1,5 @@
+![Texto alternativo de la imagen](https://images.worldofescapes.com/uploads/quests/11804/medium/trap-medellin-la-bomba.jpg)
+
 ¿Con qué variable almacenarías la edad de una persona?
 
 ¿En qué variable guardarías el precio de un producto con decimales?
